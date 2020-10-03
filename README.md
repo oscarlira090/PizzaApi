@@ -25,6 +25,7 @@ Here are a few of the packages that may be useful in the API development:
 ## Installation
 
 - composer install
+- Edit .env and set your own mysql credentials
 - php bin/console doctrine:database:create
 - php bin/console doctrine:migrations:migrate
 - symfony  server:start  
