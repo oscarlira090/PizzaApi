@@ -1,0 +1,6 @@
+App\Entity\Topping:
+    attributes:
+        id:
+            groups: ['topping']
+        name:
+            groups: ['topping']          

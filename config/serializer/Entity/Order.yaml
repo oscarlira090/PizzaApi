@@ -1,0 +1,10 @@
+App\Entity\Order:
+    attributes:
+        id:
+            groups: ['order']
+        total:
+            groups: ['order'] 
+        created_at:
+            groups: ['order'] 
+        customer_id:
+            groups: ['order']            
