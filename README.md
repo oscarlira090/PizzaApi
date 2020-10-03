@@ -1,4 +1,4 @@
-# PizzaApi
+# PizzaApi con Symfony
 
 The task:
 
